@@ -1,0 +1,40 @@
+html {
+    margin: 0 auto;
+    background-color: aqua;
+}
+
+body {
+    width: 1000px;
+    margin: 0 auto;
+    background-color: azure;
+    position: relative;
+}
+
+h1 {
+    font-size: 70px;
+
+}
+
+header p {
+    font-size: 30px;
+}
+
+nav {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+nav ul li{
+    list-style-type: none;
+    display: inline;
+    background-color: blueviolet;
+}
+
+ p:nth-child(3){
+    font-size: 30px;
+}
+
+#experience p{
+    text-align: center;
+}
