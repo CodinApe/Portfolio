@@ -86,12 +86,12 @@ nav ul li{
     display: inline;
     /* background-color: blueviolet; */
     padding: 12px;
-    background-color: rgba(0, 0, 0, 0.579);
+    background-color: rgba(0, 0, 0, 0.839);
     border-radius: 5px;
 }
 
 nav ul li:hover{ 
-    background-color: #c800de40;
+    background-color: #c800dec5;
 }
 
 nav ul li a {
@@ -103,7 +103,7 @@ nav ul li a {
     
 }
 nav ul li a:hover {
-    color: #c800de;
+    color: #ebe7e7;
 }
 
 nav ul li:hover {
